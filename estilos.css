@@ -1,0 +1,29 @@
+body {
+    background-size: cover;
+    background-image: url("fondo\ 2.0.jpg");
+    background-repeat: no-repeat
+    
+
+}
+*{
+    font-family: 'Caveat', cursive;
+    font-weight: bold;
+    font-size: 35px;
+    color: white
+    
+}
+h1 {
+    
+    background-color: cornsilk;
+    border: solid 2px black;
+    padding: 10px;
+    background-image: url(fondo.jpg);
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    
+}
+h3 { 
+    font-size: 30px;
+}
